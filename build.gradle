@@ -17,4 +17,6 @@ dependencies {
     compile 'io.springfox:springfox-swagger2:2.9.2'
     compile 'io.springfox:springfox-swagger-ui:2.9.2'
     compile 'com.fasterxml.jackson.core:jackson-databind:2.10.2'
+
+    compile group: 'org.apache.poi', name: 'poi-ooxml', version: '4.1.2'
 }
